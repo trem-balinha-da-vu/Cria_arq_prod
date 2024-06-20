@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1718899864 source:c:\users\izabe\desktop\cria_arq_prod\main.c
+	<stdio.h>
+	<stdlib.h>
+	"produtos.h"
+	"interface.h"
+
+1718901057 source:c:\users\izabe\desktop\cria_arq_prod\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"produtos.h"
+
+1718899285 c:\users\izabe\desktop\cria_arq_prod\produtos.h
+
+1718899437 source:c:\users\izabe\desktop\cria_arq_prod\interface.c
+	<stdlib.h>
+	<stdio.h>
+	"interface.h"
+
+1718899376 c:\users\izabe\desktop\cria_arq_prod\interface.h
+
